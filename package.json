@@ -1,0 +1,20 @@
+{
+  "name": "jspractice",
+  "version": "1.0.0",
+  "description": "JsPractice",
+  "main": "practice.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arrosev/JsPractice.git"
+  },
+  "author": "arrose",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/arrosev/JsPractice/issues"
+  },
+  "homepage": "https://github.com/arrosev/JsPractice#readme"
+}
