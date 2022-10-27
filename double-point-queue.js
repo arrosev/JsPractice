@@ -90,3 +90,5 @@ class DoublePointQueue {
     }
 
 }
+
+export default DoublePointQueue
